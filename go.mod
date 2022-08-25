@@ -1,4 +1,4 @@
-module github.com/bkmz/amocrm_v4
+module github.com/GoopaloUA/amocrm_v4
 
 go 1.18
 
